@@ -1,1 +1,3 @@
 # Personal-ChatBot
+
+This code creates a graphical user interface (GUI) chatbot that uses speech recognition and text-to-speech technology to communicate with the user. The chatbot is programmed to respond to questions using natural language processing technology. The user can ask a question by speaking into the microphone as into an input box. The chatbot's response is displayed in an output box and read aloud using text-to-speech. The GUI includes two buttons: "Ask" and "Refresh". The "Ask" button initiates a conversation with the chatbot, while the "Refresh" button clears the input and output boxes, allowing the user to ask another question.
